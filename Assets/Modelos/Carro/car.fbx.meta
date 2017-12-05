@@ -1,0 +1,386 @@
+fileFormatVersion: 2
+guid: e4cde7d269f85c447980fcb797b2f0a3
+timeCreated: 1512160015
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: BackLight
+    100002: Base
+    100004: BLightL
+    100006: BLightLG
+    100008: BLightR
+    100010: BLightRG
+    100012: Body
+    100014: BrakeFL
+    100016: BrakeFR
+    100018: BrakeRL
+    100020: BrakeRR
+    100022: BumperF
+    100024: BumperR
+    100026: Camera_Perspective7
+    100028: //RootNode
+    100030: DoorL
+    100032: DoorR
+    100034: Driver Sport
+    100036: Engine
+    100038: Exhaust
+    100040: FenderL
+    100042: FenderR
+    100044: FillLight
+    100046: group
+    100048: HLightL
+    100050: HLightLG
+    100052: HLightR
+    100054: HLightRG
+    100056: Hood
+    100058: Hood Carbon
+    100060: KeyLight
+    100062: LicenseF
+    100064: LicenseR
+    100066: LightPreset
+    100068: MirrorL
+    100070: MirrorR
+    100072: Plane
+    100074: Rollcag1
+    100076: Rollcag2
+    100078: RotorFL
+    100080: RotorFR
+    100082: RotorRL
+    100084: RotorRR
+    100086: Seat Sport
+    100088: SeatL
+    100090: SeatR
+    100092: SkirtL
+    100094: SkirtR
+    100096: Spoiler
+    100098: TireFL
+    100100: TireFL1
+    100102: TireFR
+    100104: TireFR1
+    100106: TireRL
+    100108: TireRL1
+    100110: TireRR
+    100112: TireRR1
+    100114: Trunk
+    100116: WindF
+    100118: WindFL
+    100120: WindFR
+    100122: WindR
+    100124: WindRL
+    100126: WindRR
+    400000: BackLight
+    400002: Base
+    400004: BLightL
+    400006: BLightLG
+    400008: BLightR
+    400010: BLightRG
+    400012: Body
+    400014: BrakeFL
+    400016: BrakeFR
+    400018: BrakeRL
+    400020: BrakeRR
+    400022: BumperF
+    400024: BumperR
+    400026: Camera_Perspective7
+    400028: //RootNode
+    400030: DoorL
+    400032: DoorR
+    400034: Driver Sport
+    400036: Engine
+    400038: Exhaust
+    400040: FenderL
+    400042: FenderR
+    400044: FillLight
+    400046: group
+    400048: HLightL
+    400050: HLightLG
+    400052: HLightR
+    400054: HLightRG
+    400056: Hood
+    400058: Hood Carbon
+    400060: KeyLight
+    400062: LicenseF
+    400064: LicenseR
+    400066: LightPreset
+    400068: MirrorL
+    400070: MirrorR
+    400072: Plane
+    400074: Rollcag1
+    400076: Rollcag2
+    400078: RotorFL
+    400080: RotorFR
+    400082: RotorRL
+    400084: RotorRR
+    400086: Seat Sport
+    400088: SeatL
+    400090: SeatR
+    400092: SkirtL
+    400094: SkirtR
+    400096: Spoiler
+    400098: TireFL
+    400100: TireFL1
+    400102: TireFR
+    400104: TireFR1
+    400106: TireRL
+    400108: TireRL1
+    400110: TireRR
+    400112: TireRR1
+    400114: Trunk
+    400116: WindF
+    400118: WindFL
+    400120: WindFR
+    400122: WindR
+    400124: WindRL
+    400126: WindRR
+    2000000: Camera_Perspective7
+    2300000: Base
+    2300002: BLightL
+    2300004: BLightLG
+    2300006: BLightR
+    2300008: BLightRG
+    2300010: Body
+    2300012: BrakeFL
+    2300014: BrakeFR
+    2300016: BrakeRL
+    2300018: BrakeRR
+    2300020: BumperF
+    2300022: BumperR
+    2300024: DoorL
+    2300026: DoorR
+    2300028: Driver Sport
+    2300030: Engine
+    2300032: Exhaust
+    2300034: FenderL
+    2300036: FenderR
+    2300038: HLightL
+    2300040: HLightLG
+    2300042: HLightR
+    2300044: HLightRG
+    2300046: Hood
+    2300048: Hood Carbon
+    2300050: LicenseF
+    2300052: LicenseR
+    2300054: MirrorL
+    2300056: MirrorR
+    2300058: Plane
+    2300060: Rollcag1
+    2300062: Rollcag2
+    2300064: RotorFL
+    2300066: RotorFR
+    2300068: RotorRL
+    2300070: RotorRR
+    2300072: Seat Sport
+    2300074: SeatL
+    2300076: SeatR
+    2300078: SkirtL
+    2300080: SkirtR
+    2300082: Spoiler
+    2300084: TireFL
+    2300086: TireFL1
+    2300088: TireFR
+    2300090: TireFR1
+    2300092: TireRL
+    2300094: TireRL1
+    2300096: TireRR
+    2300098: TireRR1
+    2300100: Trunk
+    2300102: WindF
+    2300104: WindFL
+    2300106: WindFR
+    2300108: WindR
+    2300110: WindRL
+    2300112: WindRR
+    3300000: Base
+    3300002: BLightL
+    3300004: BLightLG
+    3300006: BLightR
+    3300008: BLightRG
+    3300010: Body
+    3300012: BrakeFL
+    3300014: BrakeFR
+    3300016: BrakeRL
+    3300018: BrakeRR
+    3300020: BumperF
+    3300022: BumperR
+    3300024: DoorL
+    3300026: DoorR
+    3300028: Driver Sport
+    3300030: Engine
+    3300032: Exhaust
+    3300034: FenderL
+    3300036: FenderR
+    3300038: HLightL
+    3300040: HLightLG
+    3300042: HLightR
+    3300044: HLightRG
+    3300046: Hood
+    3300048: Hood Carbon
+    3300050: LicenseF
+    3300052: LicenseR
+    3300054: MirrorL
+    3300056: MirrorR
+    3300058: Plane
+    3300060: Rollcag1
+    3300062: Rollcag2
+    3300064: RotorFL
+    3300066: RotorFR
+    3300068: RotorRL
+    3300070: RotorRR
+    3300072: Seat Sport
+    3300074: SeatL
+    3300076: SeatR
+    3300078: SkirtL
+    3300080: SkirtR
+    3300082: Spoiler
+    3300084: TireFL
+    3300086: TireFL1
+    3300088: TireFR
+    3300090: TireFR1
+    3300092: TireRL
+    3300094: TireRL1
+    3300096: TireRR
+    3300098: TireRR1
+    3300100: Trunk
+    3300102: WindF
+    3300104: WindFL
+    3300106: WindFR
+    3300108: WindR
+    3300110: WindRL
+    3300112: WindRR
+    4300000: RotorRL
+    4300002: Spoiler
+    4300004: BLightL
+    4300006: SeatL
+    4300008: Engine
+    4300010: Trunk
+    4300012: WindR
+    4300014: RotorFL
+    4300016: BrakeRL
+    4300018: WindF
+    4300020: SkirtR
+    4300022: LicenseR
+    4300024: Hood Carbon
+    4300026: RotorRR
+    4300028: BLightLG
+    4300030: BumperF
+    4300032: BrakeFR
+    4300034: LicenseF
+    4300036: BLightRG
+    4300038: Hood
+    4300040: TireFR1
+    4300042: DoorL
+    4300044: Seat Sport
+    4300046: Exhaust
+    4300048: TireFR
+    4300050: TireFL1
+    4300052: TireRL
+    4300054: FenderL
+    4300056: HLightL
+    4300058: WindRL
+    4300060: Rollcag2
+    4300062: SeatR
+    4300064: FenderR
+    4300066: Driver Sport
+    4300068: BLightR
+    4300070: TireFL
+    4300072: MirrorR
+    4300074: WindFL
+    4300076: BrakeRR
+    4300078: TireRR1
+    4300080: HLightR
+    4300082: WindFR
+    4300084: Rollcag1
+    4300086: WindRR
+    4300088: RotorFR
+    4300090: HLightLG
+    4300092: TireRL1
+    4300094: DoorR
+    4300096: Body
+    4300098: MirrorL
+    4300100: HLightRG
+    4300102: BumperR
+    4300104: BrakeFL
+    4300106: TireRR
+    4300108: Base
+    4300110: SkirtL
+    4300112: Plane
+    9500000: //RootNode
+    10800000: BackLight
+    10800002: FillLight
+    10800004: KeyLight
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
